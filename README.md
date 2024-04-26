@@ -10,7 +10,7 @@
 |:----------:|:----------:|:------:|
 | BigSur (11)| Sonoma (14)| Latest |
 
-![System](./Screenshot/Finder2.png)
+![System](./Screenshots/Finder2.png)
 
 ## System Specs
 
@@ -25,7 +25,7 @@
 | LAN | Realtek® 8125BG 2.5SGbps LAN controller |
 | BIOS Version | 7D59v1G |
 
-![System](./Screenshot/Geekb.png)
+![System](./Screenshots/Geekb.png)
 
 ## BIOS Tweaks
 
