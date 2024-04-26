@@ -10,6 +10,8 @@
 |:----------:|:----------:|:------:|
 | BigSur (11)| Sonoma (14)| Latest |
 
+![System](./Screenshot/Finder2.png)
+
 ## System Specs
 
 | Type | Item |
@@ -22,6 +24,8 @@
 | Sound | Asus Xonar SE |
 | LAN | Realtek® 8125BG 2.5SGbps LAN controller |
 | BIOS Version | 7D59v1G |
+
+![System](./Screenshot/Geekb.png)
 
 ## BIOS Tweaks
 
