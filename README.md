@@ -71,4 +71,18 @@ V.D.T -> Enable
 
 - If you don't have this options in the BIOS try update in on newer version
 
-6) Try to boot FROM
+6) Try to boot from USB with MacOS, thet after boot menu shows press SPACE, and from new menu select %NAME_USB%.dmg, then apple logo should appear
+
+7) Click to Disk Managment and erase disk where you want to install OS
+
+8) Then select reinstall MacOS and follow instructions
+
+9) After about 30 mins computer will automaticly shutdown and you need to boot from USB again and select "Install MacOs"
+
+10) After installation in boot menu should apper new optiom with disk name with the installed MacOs
+
+-If you use the same Motherboard chance of getting boot errors are minimal, but if you have problems with boot:
+
+1) Update BIOS to version that i use, restore defaults in BIOS and apply needed tweaks (see step 5)
+2) Try change SMBIOS to MacPro7,1 or iMac20,2
+3) If you still can't boot there's no change to identify problen without debug info: look through every opem core file and kexts and replace it with debug version, also add -debug=0x100 in boot args and start debugging 
